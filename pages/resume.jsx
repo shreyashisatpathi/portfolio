@@ -150,10 +150,7 @@ planning, and retrospectives.
             Ensured high-quality code by doing code reviews and unit tests and integration tests.
             </li>
             <li>
-            Optimised the website's performance and speed using Webpack, CDN, and SSR.
-            </li>
-            <li>
-            Implemented SEO best practices to improve the website's visibility and ranking.
+            Optimised the application performance and speed using Webpack, CDN, and SSR.
             </li>
           </ul>
         </div>
