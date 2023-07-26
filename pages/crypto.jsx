@@ -38,7 +38,7 @@ const crypto = () => {
             package. This application was built using the Coin Gecko API.
           </p>
           <a
-            href='https://crypto-seven-nu.vercel.app'
+            href='https://github.com/shreyashisatpathi/crypto'
             target='_blank'
             rel='noreferrer'
           >
