@@ -37,14 +37,14 @@ const property = () => {
             properties. This is made possible with Zillow API.
           </p>
           <a
-            href='#'
+            href='https://github.com/shreyashisatpathi/property-finder'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
           <a
-            href='https://property-finder-development.web.app/'
+            href='https://property-finder-phi.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
