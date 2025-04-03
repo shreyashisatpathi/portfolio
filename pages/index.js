@@ -12,6 +12,7 @@ export default function Home() {
       <Head>
         <title>Shreyashi | Front-End Developer</title>
         <meta name="description" content="I'm a front-end web developer specializing in building exceptional digital experiences." />
+        <meta name="google-site-verification" content="Y2ICgiTYpaXFteMRYXutjstM1xjqLEVYB7sfnjDlaZM" />
         <link rel="icon" href="/fav.png?" />
       </Head>
     <Main />
